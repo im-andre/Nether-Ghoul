@@ -1,0 +1,53 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/netherghoul/mixin/ItemInHandRendererMixin.java",
+      "src/main/java/net/mcreator/netherghoul/mixin/PlayerAnimationMixin.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/netherghoul/mixin/LevelRendererMixin.java",
+      "src/main/java/net/mcreator/netherghoul/mixin/EntityRenderDispatcherMixin.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/netherghoul/client/ItemArms.java",
+      "src/main/java/net/mcreator/netherghoul/network/PlayPlayerAnimationMessage.java",
+      "src/main/java/net/mcreator/netherghoul/mixin/LivingEntityRendererMixin.java",
+      "src/main/java/net/mcreator/netherghoul/mixin/PlayerAnimationRendererMixin.java",
+      "src/main/java/net/mcreator/netherghoul/mixin/CameraAccessor.java",
+      "src/main/resources/netherghoul.mixins.json",
+      "src/main/java/net/mcreator/netherghoul/mixin/ItemInHandLayerMixin.java",
+      "src/main/resources/META-INF/accesstransformer.cfg",
+      "src/main/java/net/mcreator/netherghoul/NetherghoulMod.java",
+      "src/main/java/net/mcreator/netherghoul/NetherghoulModPlayerAnimationAPI.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "netherghoul",
+    "modName": "Nether Ghoul",
+    "version": "0.1.0",
+    "description": "The Tokyo Ghoul experience brought to Minecraft!",
+    "author": "imandreee, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "modPicture": "ng_logo_2048x2048",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.netherghoul"
+  },
+  "mcreatorVersion": 202600114619
+}
